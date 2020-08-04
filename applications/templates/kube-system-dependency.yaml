@@ -10,4 +10,4 @@ spec:
   source:
     path: kube-system-dependency
     repoURL: https://github.com/keiSunagawa/lean-argo-cd
-    targetRevision: "0.1.1"
+    targetRevision: "0.1.2"
